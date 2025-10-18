@@ -2,7 +2,7 @@
   "name": "snipl-website",
   "version": "1.0.0",
   "description": "Sri Neelkanth Impex Pvt. Ltd. | GROTECH Website",
-  "homepage": "https://snipl-1.github.io/website",
+  "homepage": "https://snipl-1.github.io/snipl-website",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
