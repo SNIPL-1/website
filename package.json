@@ -1,0 +1,20 @@
+{
+  "name": "snipl-website",
+  "version": "1.0.0",
+  "description": "Sri Neelkanth Impex Pvt. Ltd. | GROTECH Website",
+  "homepage": "https://snipl-1.github.io/website",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
