@@ -1,0 +1,8 @@
+body { font-family: 'Open Sans', sans-serif; margin: 0; }
+.navbar { display: flex; justify-content: space-between; align-items: center; background: #2F3437; color: white; padding: 10px 20px; }
+.links a { color: white; margin: 0 10px; text-decoration: none; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+.card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 10px; text-align: center; transition: 0.3s; }
+.card:hover { box-shadow: 0 4px 10px rgba(0,0,0,0.15); }
+input, textarea { display: block; width: 100%; margin: 10px 0; padding: 8px; }
+button { background: #FF6633; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; }
